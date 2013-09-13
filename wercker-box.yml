@@ -1,5 +1,5 @@
 name: elixir
-version: 0.0.1
+version: 0.0.2
 type: main
 platform: ubuntu@12.04
 description: box with erlang, elixir and rebar
@@ -13,7 +13,7 @@ packages:
   - rebar@2.0.0
 script : |
   sudo apt-get update
-  sudo apt-get install -yq build-essential wget libncurses5-dev openssl libssl-dev fop xsltproc libxml2-utils unixodbc-dev
+  sudo apt-get install -yq build-essential wget libncurses5-dev openssl libssl-dev fop xsltproc libxml2-utils unixodbc-dev git-core
   wget http://www.erlang.org/download/otp_src_R16B01.tar.gz
   tar -xzvf otp_src_R16B01.tar.gz
   cd otp_src_R16B01
