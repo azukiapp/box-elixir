@@ -24,3 +24,7 @@ box: nuxlli/elixir@0.0.2
 box-elixir source code is released under Apache 2 License.
 
 Check LEGAL and LICENSE files for more information.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/azukiapp/box-elixir/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
