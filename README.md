@@ -8,7 +8,7 @@ Wercker box for [elixir](https://github.com/elixir-lang), with [Erlang](www.erla
 ## Versions
 
 * Erlang R1601
-* Elixir 0.10.2
+* Elixir 0.11.2
 * Rebar 2.0.0
 
 ## Example
@@ -16,7 +16,7 @@ Wercker box for [elixir](https://github.com/elixir-lang), with [Erlang](www.erla
 Using a box is trivial, the wercker.yml includes a box definition that you can leverage.
 
 ```yaml
-box: nuxlli/elixir@0.0.2
+box: nuxlli/elixir@0.0.4
 ```
 
 ## License
